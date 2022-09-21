@@ -1,1 +1,0 @@
-min-width/min-height 的初始值是 auto，max-width/max-height 的初始值是 none。
