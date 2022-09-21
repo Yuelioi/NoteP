@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tmilar/furigana-helper": "^0.1.0"
+  }
+}
